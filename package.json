@@ -1,0 +1,12 @@
+{
+  "name": "alloy-benchmark-report",
+  "version": "1.0.0",
+  "description": "Command-line report tool for gathering KPIs from Alloy sitespeed.io benchmark results in different regions.",
+  "main": "index.js",
+  "author": "Aaron Hardy",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.0",
+    "median": "0.0.2"
+  }
+}
